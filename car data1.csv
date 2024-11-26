@@ -1,0 +1,255 @@
+Car_Name,Year,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner,Horsepower,Battery Power,Suspension,Cylinders,Torque
+Toyota Corolla,2015,10.50,18.00,35000,Petrol,Dealer,Manual,0,132,1.5 kWh,MacPherson,4,174 Nm
+Honda Civic,2017,14.00,20.75,27000,Diesel,Individual,Automatic,1,158,1.8 kWh,Double Wishbone,4,189 Nm
+Ford Focus,2014,8.25,14.30,45000,Diesel,Dealer,Manual,0,120,1.6 kWh,Torsion Beam,4,150 Nm
+Hyundai Elantra,2016,12.00,18.10,30000,Petrol,Dealer,Automatic,0,147,1.4 kWh,Multi-link,4,178 Nm
+BMW 3 Series,2018,22.50,35.00,15000,Diesel,Dealer,Automatic,0,255,2.0 kWh,MacPherson,4,400 Nm
+Audi A4,2015,20.00,34.00,40000,Petrol,Individual,Manual,1,188,1.6 kWh,Multi-link,4,320 Nm
+Mercedes-Benz C-Class,2017,30.00,42.50,22000,Diesel,Dealer,Automatic,0,201,2.1 kWh,Multi-link,4,400 Nm
+Volkswagen Jetta,2014,9.50,16.00,52000,Petrol,Individual,Manual,1,148,1.4 kWh,MacPherson,4,250 Nm
+Chevrolet Cruze,2016,11.00,17.20,37000,Diesel,Dealer,Manual,0,153,1.5 kWh,Torsion Beam,4,240 Nm
+Skoda Octavia,2018,15.50,25.00,20000,Petrol,Individual,Automatic,0,180,1.8 kWh,MacPherson,4,320 Nm
+Mazda 6,2015,13.00,20.10,43000,Diesel,Dealer,Manual,0,168,1.6 kWh,Multi-link,4,290 Nm
+Nissan Altima,2016,14.50,22.00,39000,Petrol,Dealer,Automatic,0,182,1.4 kWh,MacPherson,4,244 Nm
+Subaru Impreza,2017,17.00,23.50,28000,Diesel,Dealer,Automatic,0,152,1.5 kWh,Double Wishbone,4,250 Nm
+Kia Optima,2014,10.00,17.00,51000,Petrol,Individual,Manual,1,165,1.4 kWh,Multi-link,4,195 Nm
+Tesla Model 3,2019,35.00,45.00,15000,Electric,Dealer,Automatic,0,283,75 kWh,Independent,0,450 Nm
+Jaguar XE,2015,28.00,38.50,32000,Diesel,Dealer,Automatic,0,197,2.0 kWh,MacPherson,4,430 Nm
+Lexus IS,2017,25.00,37.00,24000,Petrol,Individual,Automatic,0,241,1.8 kWh,Multi-link,4,350 Nm
+Infiniti Q50,2016,22.00,34.00,28000,Diesel,Dealer,Automatic,0,208,1.8 kWh,Double Wishbone,4,400 Nm
+Volvo S60,2018,24.50,36.00,18000,Petrol,Dealer,Automatic,0,240,2.0 kWh,MacPherson,4,350 Nm
+Alfa Romeo Giulia,2015,23.00,39.00,30000,Diesel,Individual,Automatic,0,280,2.1 kWh,Double Wishbone,4,450 Nm
+Acura TLX,2016,19.50,29.50,35000,Petrol,Dealer,Automatic,0,206,1.8 kWh,Multi-link,4,267 Nm
+Genesis G70,2017,26.50,40.00,22000,Diesel,Dealer,Automatic,0,252,2.0 kWh,Multi-link,4,350 Nm
+Cadillac ATS,2014,18.00,27.00,47000,Petrol,Dealer,Manual,1,202,1.5 kWh,MacPherson,4,260 Nm
+Buick Regal,2015,16.50,26.00,42000,Diesel,Individual,Automatic,0,250,2.0 kWh,Multi-link,4,400 Nm
+Toyota Camry,2016,14.00,25.00,29000,Petrol,Dealer,Automatic,0,178,1.5 kWh,MacPherson,4,230 Nm
+Honda Accord,2017,18.00,27.50,26000,Diesel,Dealer,Automatic,0,192,1.8 kWh,Double Wishbone,4,260 Nm
+Ford Fusion,2015,13.50,22.50,31000,Petrol,Individual,Manual,0,175,1.6 kWh,Torsion Beam,4,240 Nm
+Hyundai Sonata,2016,15.00,24.00,34000,Diesel,Dealer,Automatic,0,185,1.5 kWh,Multi-link,4,250 Nm
+BMW 5 Series,2018,40.00,55.00,20000,Petrol,Dealer,Automatic,0,248,2.0 kWh,MacPherson,6,450 Nm
+Audi A6,2017,38.00,60.00,22000,Diesel,Dealer,Automatic,0,335,2.5 kWh,Multi-link,6,500 Nm
+Mercedes-Benz E-Class,2016,36.00,58.00,28000,Petrol,Dealer,Automatic,0,295,2.1 kWh,Multi-link,6,440 Nm
+Volkswagen Passat,2014,12.50,22.00,47000,Diesel,Individual,Manual,1,140,1.4 kWh,MacPherson,4,250 Nm
+Chevrolet Malibu,2015,14.00,24.00,32000,Petrol,Dealer,Automatic,0,160,1.5 kWh,Torsion Beam,4,250 Nm
+Skoda Superb,2016,20.00,33.00,26000,Diesel,Dealer,Automatic,0,190,1.8 kWh,MacPherson,4,350 Nm
+Mazda 3,2017,15.50,23.00,30000,Petrol,Individual,Automatic,0,186,1.5 kWh,Double Wishbone,4,290 Nm
+Nissan Maxima,2015,22.00,34.00,29000,Diesel,Dealer,Automatic,0,300,2.1 kWh,Multi-link,6,380 Nm
+Subaru Legacy,2016,17.50,28.00,34000,Petrol,Dealer,Automatic,0,182,1.6 kWh,MacPherson,4,236 Nm
+Kia Stinger,2018,35.00,48.00,15000,Diesel,Dealer,Automatic,0,365,3.3 kWh,Multi-link,6,510 Nm
+Tesla Model S,2019,70.00,80.00,10000,Electric,Dealer,Automatic,0,670,100 kWh,Independent,0,1000 Nm
+Jaguar XF,2015,28.50,39.50,32000,Diesel,Dealer,Automatic,0,180,1.8 kWh,MacPherson,4,450 Nm
+Lexus ES,2017,25.50,38.00,24000,Petrol,Individual,Automatic,0,215,1.6 kWh,Multi-link,4,350 Nm
+Infiniti Q70,2016,28.00,42.00,28000,Diesel,Dealer,Automatic,0,330,2.5 kWh,Double Wishbone,6,550 Nm
+Volvo S90,2018,38.50,55.00,20000,Petrol,Dealer,Automatic,0,316,2.0 kWh,MacPherson,4,400 Nm
+Alfa Romeo Stelvio,2015,32.00,45.00,30000,Diesel,Individual,Automatic,0,280,2.1 kWh,Double Wishbone,4,480 Nm
+Acura RLX,2016,24.00,35.00,35000,Petrol,Dealer,Automatic,0,310,2.0 kWh,Multi-link,6,370 Nm
+Genesis G80,2017,32.50,47.00,22000,Diesel,Dealer,Automatic,0,311,2.5 kWh,Multi-link,6,400 Nm
+Cadillac CT6,2018,45.00,62.00,18000,Petrol,Dealer,Automatic,0,335,3.0 kWh,MacPherson,6,400 Nm
+Buick LaCrosse,2015,20.50,32.00,42000,Diesel,Individual,Automatic,0,305,2.0 kWh,Multi-link,6,460 Nm
+Toyota Avalon,2016,25.00,38.00,29000,Petrol,Dealer,Automatic,0,268,1.8 kWh,MacPherson,6,300 Nm
+Honda Odyssey,2017,23.00,34.00,26000,Diesel,Dealer,Automatic,0,280,2.0 kWh,Multi-link,6,400 Nm
+Ford Escape,2014,11.00,18.00,41000,Petrol,Individual,Manual,1,168,1.6 kWh,MacPherson,4,230 Nm
+Hyundai Santa Fe,2015,16.00,28.00,35000,Diesel,Dealer,Automatic,0,290,2.1 kWh,Multi-link,6,320 Nm
+BMW X3,2016,30.00,45.00,30000,Petrol,Dealer,Automatic,0,248,2.0 kWh,MacPherson,4,350 Nm
+Audi Q5,2017,35.00,55.00,22000,Diesel,Dealer,Automatic,0,350,2.5 kWh,Multi-link,6,500 Nm
+Mercedes-Benz GLC,2018,40.00,65.00,20000,Petrol,Dealer,Automatic,0,258,2.0 kWh,Multi-link,4,400 Nm
+Volkswagen Tiguan,2015,18.00,32.00,40000,Diesel,Individual,Automatic,0,184,1.6 kWh,MacPherson,4,300 Nm
+Chevrolet Equinox,2016,16.50,28.00,33000,Petrol,Dealer,Automatic,0,252,1.8 kWh,Torsion Beam,6,260 Nm
+Skoda Kodiaq,2017,26.00,40.00,22000,Diesel,Dealer,Automatic,0,236,2.0 kWh,MacPherson,4,350 Nm
+Mazda CX-5,2018,24.00,36.00,18000,Petrol,Dealer,Automatic,0,187,1.5 kWh,Multi-link,4,280 Nm
+Nissan Murano,2015,20.00,33.00,37000,Diesel,Dealer,Automatic,0,260,2.1 kWh,Multi-link,6,320 Nm
+Subaru Outback,2016,19.00,30.00,31000,Petrol,Dealer,Automatic,0,175,1.6 kWh,MacPherson,4,236 Nm
+Kia Sorento,2017,21.50,34.00,28000,Diesel,Dealer,Automatic,0,290,2.1 kWh,Multi-link,6,330 Nm
+Tesla Model X,2019,80.00,95.00,12000,Electric,Dealer,Automatic,0,670,100 kWh,Independent,0,1000 Nm
+Jaguar F-Pace,2015,42.00,55.00,35000,Diesel,Dealer,Automatic,0,250,2.0 kWh,MacPherson,4,430 Nm
+Lexus RX,2017,48.00,62.00,25000,Petrol,Individual,Automatic,0,295,1.8 kWh,Multi-link,6,360 Nm
+Infiniti QX50,2016,35.00,48.00,30000,Diesel,Dealer,Automatic,0,325,2.5 kWh,Double Wishbone,6,450 Nm
+Volvo XC60,2018,46.00,70.00,20000,Petrol,Dealer,Automatic,0,316,2.0 kWh,MacPherson,4,400 Nm
+Alfa Romeo Stelvio,2015,32.00,45.00,30000,Diesel,Individual,Automatic,0,280,2.1 kWh,Double Wishbone,4,480 Nm
+Acura MDX,2016,34.00,46.00,35000,Petrol,Dealer,Automatic,0,290,2.0 kWh,Multi-link,6,370 Nm
+Genesis GV80,2017,60.00,80.00,22000,Diesel,Dealer,Automatic,0,375,3.3 kWh,Multi-link,6,500 Nm
+Cadillac XT5,2018,45.00,62.00,18000,Petrol,Dealer,Automatic,0,310,3.0 kWh,MacPherson,6,350 Nm
+Buick Enclave,2015,28.00,42.00,42000,Diesel,Individual,Automatic,0,310,2.5 kWh,Multi-link,6,400 Nm
+Toyota Highlander,2016,33.00,50.00,29000,Petrol,Dealer,Automatic,0,295,2.0 kWh,MacPherson,6,360 Nm
+Honda Pilot,2017,31.00,45.00,26000,Diesel,Dealer,Automatic,0,280,2.0 kWh,Multi-link,6,350 Nm
+Ford Edge,2014,16.00,28.00,47000,Petrol,Individual,Manual,1,245,1.8 kWh,Torsion Beam,6,275 Nm
+Hyundai Palisade,2015,38.00,55.00,35000,Diesel,Dealer,Automatic,0,291,2.2 kWh,Multi-link,6,355 Nm
+BMW X5,2016,65.00,80.00,30000,Petrol,Dealer,Automatic,0,335,3.0 kWh,MacPherson,6,500 Nm
+Audi Q7,2017,70.00,95.00,22000,Diesel,Dealer,Automatic,0,349,3.0 kWh,Multi-link,6,600 Nm
+Mercedes-Benz GLE,2018,75.00,100.00,20000,Petrol,Dealer,Automatic,0,362,3.0 kWh,Multi-link,6,500 Nm
+Volkswagen Touareg,2015,45.00,62.00,40000,Diesel,Individual,Automatic,0,240,2.5 kWh,MacPherson,6,420 Nm
+Chevrolet Traverse,2016,38.00,55.00,33000,Petrol,Dealer,Automatic,0,310,3.0 kWh,Torsion Beam,6,360 Nm
+Skoda Karoq,2017,32.00,45.00,22000,Diesel,Dealer,Automatic,0,190,2.0 kWh,MacPherson,4,320 Nm
+Mazda CX-9,2018,42.00,58.00,18000,Petrol,Dealer,Automatic,0,250,2.5 kWh,Multi-link,6,420 Nm
+Nissan Pathfinder,2015,28.00,48.00,37000,Diesel,Dealer,Automatic,0,300,2.5 kWh,Multi-link,6,400 Nm
+Subaru Ascent,2016,35.00,50.00,31000,Petrol,Dealer,Automatic,0,260,2.0 kWh,MacPherson,4,350 Nm
+Kia Telluride,2017,45.00,60.00,28000,Diesel,Dealer,Automatic,0,291,3.3 kWh,Multi-link,6,355 Nm
+Tesla Model Y,2019,65.00,78.00,12000,Electric,Dealer,Automatic,0,450,75 kWh,Independent,0,660 Nm
+Jaguar I-PACE,2015,80.00,95.00,35000,Electric,Dealer,Automatic,0,394,90 kWh,Double Wishbone,0,696 Nm
+Lexus NX,2017,48.00,62.00,25000,Petrol,Individual,Automatic,0,235,1.8 kWh,Multi-link,4,320 Nm
+Infiniti QX60,2016,42.00,58.00,30000,Diesel,Dealer,Automatic,0,295,2.5 kWh,Double Wishbone,6,400 Nm
+Volvo XC90,2018,75.00,95.00,20000,Petrol,Dealer,Automatic,0,400,2.5 kWh,MacPherson,4,600 Nm
+Alfa Romeo Tonale,2015,32.00,45.00,30000,Diesel,Individual,Automatic,0,180,2.1 kWh,Double Wishbone,4,280 Nm
+Acura RDX,2016,36.00,50.00,35000,Petrol,Dealer,Automatic,0,272,2.0 kWh,Multi-link,4,380 Nm
+Genesis GV70,2017,50.00,70.00,22000,Diesel,Dealer,Automatic,0,375,3.3 kWh,Multi-link,6,530 Nm
+Cadillac Escalade,2018,80.00,110.00,18000,Petrol,Dealer,Automatic,0,420,6.2 kWh,MacPherson,8,623 Nm
+Buick Envision,2015,32.00,45.00,42000,Diesel,Individual,Automatic,0,252,2.0 kWh,Multi-link,4,353 Nm
+Toyota Land Cruiser,2016,75.00,100.00,29000,Petrol,Dealer,Automatic,0,381,4.6 kWh,MacPherson,8,650 Nm
+Honda CR-V,2017,28.00,40.00,26000,Diesel,Dealer,Automatic,0,190,2.0 kWh,Multi-link,4,275 Nm
+Ford Explorer,2014,28.00,40.00,47000,Petrol,Individual,Manual,1,300,2.5 kWh,Torsion Beam,6,350 Nm
+Hyundai Tucson,2015,22.00,35.00,35000,Diesel,Dealer,Automatic,0,181,2.0 kWh,Multi-link,4,400 Nm
+BMW X7,2016,90.00,120.00,30000,Petrol,Dealer,Automatic,0,523,4.4 kWh,MacPherson,8,750 Nm
+Audi Q8,2017,100.00,135.00,22000,Diesel,Dealer,Automatic,0,500,4.0 kWh,Multi-link,8,700 Nm
+Mercedes-Benz GLS,2018,110.00,145.00,20000,Petrol,Dealer,Automatic,0,500,4.0 kWh,Multi-link,8,850 Nm
+Volkswagen Atlas,2015,45.00,60.00,40000,Diesel,Individual,Automatic,0,276,2.5 kWh,MacPherson,6,500 Nm
+Chevrolet Tahoe,2016,58.00,75.00,33000,Petrol,Dealer,Automatic,0,355,5.3 kWh,Torsion Beam,8,500 Nm
+Skoda Yeti,2017,25.00,37.00,22000,Diesel,Dealer,Automatic,0,148,1.8 kWh,MacPherson,4,250 Nm
+Mazda CX-3,2018,28.00,40.00,18000,Petrol,Dealer,Automatic,0,146,2.0 kWh,Multi-link,4,280 Nm
+Nissan Rogue,2015,20.00,32.00,37000,Diesel,Dealer,Automatic,0,181,1.6 kWh,Multi-link,4,300 Nm
+Subaru Forester,2016,23.00,35.00,31000,Petrol,Dealer,Automatic,0,182,2.0 kWh,MacPherson,4,240 Nm
+Kia Sportage,2017,22.00,33.00,28000,Diesel,Dealer,Automatic,0,237,2.0 kWh,Multi-link,4,400 Nm
+Tesla Cybertruck,2019,90.00,110.00,12000,Electric,Dealer,Automatic,0,800,110 kWh,Independent,0,1200 Nm
+Jaguar F-Type,2015,70.00,90.00,35000,Petrol,Dealer,Automatic,0,380,5.0 kWh,Double Wishbone,8,625 Nm
+Lexus LS,2017,100.00,130.00,25000,Petrol,Individual,Automatic,0,416,3.5 kWh,Multi-link,8,600 Nm
+Infiniti QX80,2016,80.00,105.00,30000,Diesel,Dealer,Automatic,0,400,5.6 kWh,Double Wishbone,8,560 Nm
+Volvo XC40,2018,40.00,55.00,20000,Petrol,Dealer,Automatic,0,190,2.0 kWh,MacPherson,4,350 Nm
+Alfa Romeo Giulia Quadrifoglio,2015,90.00,120.00,30000,Diesel,Individual,Automatic,0,505,3.8 kWh,Double Wishbone,6,600 Nm
+Acura NSX,2016,120.00,150.00,35000,Petrol,Dealer,Automatic,0,573,3.5 kWh,Multi-link,6,645 Nm
+Genesis G90,2017,80.00,110.00,22000,Diesel,Dealer,Automatic,0,420,3.3 kWh,Multi-link,6,520 Nm
+Cadillac XT6,2018,45.00,62.00,18000,Petrol,Dealer,Automatic,0,310,3.0 kWh,MacPherson,6,400 Nm
+Buick Encore,2015,18.00,30.00,42000,Diesel,Individual,Automatic,0,138,1.4 kWh,Multi-link,4,200 Nm
+Toyota 4Runner,2016,35.00,50.00,29000,Petrol,Dealer,Automatic,0,270,4.0 kWh,MacPherson,6,377 Nm
+Honda Ridgeline,2017,33.00,48.00,26000,Diesel,Dealer,Automatic,0,280,3.0 kWh,Multi-link,6,355 Nm
+Ford Ranger,2014,25.00,38.00,47000,Petrol,Individual,Manual,1,270,3.2 kWh,Torsion Beam,5,470 Nm
+Hyundai Santa Cruz,2015,28.00,45.00,35000,Diesel,Dealer,Automatic,0,190,2.0 kWh,Multi-link,4,250 Nm
+BMW X1,2016,32.00,48.00,30000,Petrol,Dealer,Automatic,0,228,2.0 kWh,MacPherson,4,350 Nm
+Audi Q3,2017,30.00,50.00,22000,Diesel,Dealer,Automatic,0,230,2.0 kWh,Multi-link,4,340 Nm
+Mercedes-Benz GLA,2018,34.00,58.00,20000,Petrol,Dealer,Automatic,0,221,2.0 kWh,Multi-link,4,350 Nm
+Volkswagen Taos,2015,22.00,35.00,40000,Diesel,Individual,Automatic,0,158,1.6 kWh,MacPherson,4,250 Nm
+Chevrolet Trailblazer,2016,24.00,38.00,33000,Petrol,Dealer,Automatic,0,155,1.8 kWh,Torsion Beam,4,240 Nm
+Skoda Rapid,2017,14.00,20.00,22000,Diesel,Dealer,Automatic,0,105,1.6 kWh,MacPherson,3,250 Nm
+Mazda MX-5,2018,28.00,40.00,18000,Petrol,Dealer,Automatic,0,181,2.0 kWh,Multi-link,4,240 Nm
+Nissan Versa,2015,10.00,15.00,37000,Diesel,Dealer,Automatic,0,122,1.6 kWh,Multi-link,4,250 Nm
+Subaru WRX,2016,28.00,42.00,31000,Petrol,Dealer,Automatic,0,268,2.5 kWh,MacPherson,4,350 Nm
+Kia Forte,2017,18.00,27.00,28000,Diesel,Dealer,Automatic,0,147,2.0 kWh,Multi-link,4,350 Nm
+Tesla Roadster,2019,200.00,250.00,12000,Electric,Dealer,Automatic,0,1000,200 kWh,Independent,0,10000 Nm
+Jaguar XJ,2015,110.00,150.00,35000,Petrol,Dealer,Automatic,0,340,5.0 kWh,Double Wishbone,8,450 Nm
+Lexus GX,2017,65.00,80.00,25000,Petrol,Individual,Automatic,0,301,4.6 kWh,Multi-link,8,440 Nm
+Infiniti Q70,2016,48.00,62.00,30000,Diesel,Dealer,Automatic,0,330,3.0 kWh,Double Wishbone,6,400 Nm
+Volvo S90,2018,46.00,70.00,20000,Petrol,Dealer,Automatic,0,400,2.5 kWh,MacPherson,4,600 Nm
+Alfa Romeo Stelvio Quadrifoglio,2015,85.00,115.00,30000,Diesel,Individual,Automatic,0,505,3.8 kWh,Double Wishbone,6,600 Nm
+Acura TLX,2016,35.00,45.00,35000,Petrol,Dealer,Automatic,0,290,2.0 kWh,Multi-link,6,370 Nm
+Genesis G70,2017,42.00,58.00,22000,Diesel,Dealer,Automatic,0,365,3.3 kWh,Multi-link,6,510 Nm
+Cadillac CT4,2018,32.00,45.00,18000,Petrol,Dealer,Automatic,0,325,3.0 kWh,MacPherson,6,400 Nm
+Buick Regal,2015,18.00,30.00,42000,Diesel,Individual,Automatic,0,250,2.0 kWh,Multi-link,4,353 Nm
+Toyota Prius,2016,24.00,30.00,29000,Petrol,Dealer,Automatic,0,121,1.8 kWh,MacPherson,4,142 Nm
+Honda Accord,2017,28.00,38.00,26000,Diesel,Dealer,Automatic,0,192,2.0 kWh,Multi-link,4,260 Nm
+Ford Fusion,2014,16.00,22.00,47000,Petrol,Individual,Manual,1,175,2.0 kWh,Torsion Beam,4,237 Nm
+Hyundai Elantra,2015,16.00,23.00,35000,Diesel,Dealer,Automatic,0,147,2.0 kWh,Multi-link,4,400 Nm
+BMW 5 Series,2016,48.00,65.00,30000,Petrol,Dealer,Automatic,0,248,2.0 kWh,MacPherson,4,350 Nm
+Audi A6,2017,52.00,70.00,22000,Diesel,Dealer,Automatic,0,340,2.5 kWh,Multi-link,6,500 Nm
+Mercedes-Benz E-Class,2018,60.00,80.00,20000,Petrol,Dealer,Automatic,0,362,3.0 kWh,Multi-link,6,500 Nm
+Volkswagen Passat,2015,25.00,32.00,40000,Diesel,Individual,Automatic,0,184,1.6 kWh,MacPherson,4,250 Nm
+Chevrolet Malibu,2016,18.50,28.00,33000,Petrol,Dealer,Automatic,0,160,1.8 kWh,Torsion Beam,4,260 Nm
+Skoda Superb,2017,30.00,45.00,22000,Diesel,Dealer,Automatic,0,220,2.0 kWh,MacPherson,4,350 Nm
+Mazda 6,2018,24.00,36.00,18000,Petrol,Dealer,Automatic,0,187,2.5 kWh,Multi-link,4,280 Nm
+Nissan Altima,2015,20.00,30.00,37000,Diesel,Dealer,Automatic,0,182,2.5 kWh,Multi-link,4,244 Nm
+Subaru Legacy,2016,23.00,32.00,31000,Petrol,Dealer,Automatic,0,175,2.5 kWh,MacPherson,4,236 Nm
+Kia Optima,2017,21.00,30.00,28000,Diesel,Dealer,Automatic,0,178,2.4 kWh,Multi-link,4,237 Nm
+Tesla Model S,2019,80.00,100.00,12000,Electric,Dealer,Automatic,0,778,100 kWh,Independent,0,967 Nm
+Jaguar XF,2015,48.00,62.00,35000,Diesel,Dealer,Automatic,0,300,2.0 kWh,Double Wishbone,4,430 Nm
+Lexus ES,2017,48.00,65.00,25000,Petrol,Individual,Automatic,0,302,3.5 kWh,Multi-link,6,362 Nm
+Infiniti Q50,2016,35.00,48.00,30000,Diesel,Dealer,Automatic,0,400,2.5 kWh,Double Wishbone,6,450 Nm
+Volvo S60,2018,46.00,70.00,20000,Petrol,Dealer,Automatic,0,316,2.0 kWh,MacPherson,4,400 Nm
+Alfa Romeo Giulia,2015,32.00,45.00,30000,Diesel,Individual,Automatic,0,280,2.1 kWh,Double Wishbone,4,480 Nm
+Acura ILX,2016,28.00,36.00,35000,Petrol,Dealer,Automatic,0,201,2.4 kWh,Multi-link,4,250 Nm
+Genesis G70 Shooting Brake,2017,50.00,70.00,22000,Diesel,Dealer,Automatic,0,365,3.3 kWh,Multi-link,6,510 Nm
+Cadillac CTS,2018,38.00,55.00,18000,Petrol,Dealer,Automatic,0,335,3.0 kWh,MacPherson,6,400 Nm
+Buick LaCrosse Hybrid,2015,32.00,45.00,42000,Hybrid,Individual,Automatic,0,182,2.0 kWh,Multi-link,4,350 Nm
+Toyota Mirai,2016,60.00,75.00,29000,Hydrogen,Dealer,Automatic,0,151,1.5 kWh,MacPherson,4,335 Nm
+Honda Clarity,2017,38.00,50.00,26000,Hybrid,Dealer,Automatic,0,212,1.5 kWh,Multi-link,4,289 Nm
+Ford Mondeo,2014,20.00,28.00,47000,Petrol,Individual,Manual,1,240,2.0 kWh,Torsion Beam,6,350 Nm
+Hyundai Ioniq,2015,22.00,35.00,35000,Hybrid,Dealer,Automatic,0,139,1.6 kWh,Multi-link,4,265 Nm
+BMW i3,2016,40.00,55.00,30000,Electric,Dealer,Automatic,0,168,42 kWh,MacPherson,0,250 Nm
+Audi A3,2017,30.00,40.00,22000,Diesel,Dealer,Automatic,0,150,2.0 kWh,Multi-link,4,320 Nm
+Mercedes-Benz A-Class,2018,34.00,50.00,20000,Petrol,Dealer,Automatic,0,221,2.0 kWh,Multi-link,4,350 Nm
+Volkswagen Golf,2015,22.00,30.00,40000,Diesel,Individual,Automatic,0,147,2.0 kWh,MacPherson,4,250 Nm
+Chevrolet Cruze,2016,16.50,25.00,33000,Petrol,Dealer,Automatic,0,153,1.8 kWh,Torsion Beam,4,240 Nm
+Skoda Octavia,2017,18.00,28.00,22000,Diesel,Dealer,Automatic,0,110,1.6 kWh,MacPherson,3,250 Nm
+Mazda 3,2018,22.00,35.00,18000,Petrol,Dealer,Automatic,0,186,2.0 kWh,Multi-link,4,250 Nm
+Nissan Sentra,2015,14.00,20.00,37000,Diesel,Dealer,Automatic,0,130,1.8 kWh,Multi-link,4,174 Nm
+Subaru Impreza,2016,18.00,25.00,31000,Petrol,Dealer,Automatic,0,148,2.0 kWh,MacPherson,4,197 Nm
+Kia Rio,2017,12.00,18.00,28000,Diesel,Dealer,Automatic,0,123,1.6 kWh,Multi-link,4,171 Nm
+Tesla Model 3,2019,45.00,60.00,12000,Electric,Dealer,Automatic,0,283,75 kWh,Independent,0,450 Nm
+Jaguar XE,2015,38.00,50.00,35000,Diesel,Dealer,Automatic,0,300,2.0 kWh,Double Wishbone,4,500 Nm
+Lexus IS,2017,35.00,50.00,25000,Petrol,Individual,Automatic,0,241,2.0 kWh,Multi-link,4,258 Nm
+Infiniti Q30,2016,30.00,42.00,30000,Diesel,Dealer,Automatic,0,208,2.2 kWh,Double Wishbone,4,350 Nm
+Volvo V60,2018,36.00,55.00,20000,Petrol,Dealer,Automatic,0,316,2.0 kWh,MacPherson,4,400 Nm
+Alfa Romeo 4C,2015,56.00,70.00,30000,Diesel,Individual,Automatic,0,237,1.7 kWh,Double Wishbone,4,350 Nm
+Acura MDX,2016,44.00,55.00,35000,Petrol,Dealer,Automatic,0,290,3.5 kWh,Multi-link,6,362 Nm
+Genesis G80,2017,52.00,70.00,22000,Diesel,Dealer,Automatic,0,420,3.8 kWh,Multi-link,6,520 Nm
+Cadillac XT5,2018,40.00,58.00,18000,Petrol,Dealer,Automatic,0,310,3.6 kWh,MacPherson,6,367 Nm
+Buick Enclave,2015,34.00,48.00,42000,Diesel,Individual,Automatic,0,288,3.6 kWh,Multi-link,6,366 Nm
+Toyota Sienna,2016,30.00,45.00,29000,Petrol,Dealer,Automatic,0,296,3.5 kWh,MacPherson,6,356 Nm
+Honda Odyssey,2017,32.00,48.00,26000,Diesel,Dealer,Automatic,0,280,3.5 kWh,Multi-link,6,355 Nm
+Ford Transit Connect,2014,18.00,24.00,47000,Petrol,Individual,Manual,1,162,2.5 kWh,Torsion Beam,4,171 Nm
+Hyundai Santa Fe,2015,26.00,40.00,35000,Diesel,Dealer,Automatic,0,190,2.2 kWh,Multi-link,4,440 Nm
+BMW X3,2016,48.00,62.00,30000,Petrol,Dealer,Automatic,0,248,2.0 kWh,MacPherson,4,350 Nm
+Audi Q5,2017,52.00,68.00,22000,Diesel,Dealer,Automatic,0,350,2.0 kWh,Multi-link,4,500 Nm
+Mercedes-Benz GLC,2018,55.00,75.00,20000,Petrol,Dealer,Automatic,0,362,3.0 kWh,Multi-link,6,500 Nm
+Volkswagen Tiguan,2015,28.00,40.00,40000,Diesel,Individual,Automatic,0,184,2.0 kWh,MacPherson,4,250 Nm
+Chevrolet Equinox,2016,22.50,35.00,33000,Petrol,Dealer,Automatic,0,182,2.4 kWh,Torsion Beam,4,233 Nm
+Skoda Kodiaq,2017,32.00,50.00,22000,Diesel,Dealer,Automatic,0,190,2.0 kWh,MacPherson,4,350 Nm
+Mazda CX-5,2018,28.00,42.00,18000,Petrol,Dealer,Automatic,0,187,2.5 kWh,Multi-link,4,280 Nm
+Nissan Pathfinder,2015,34.00,48.00,37000,Diesel,Dealer,Automatic,0,284,3.5 kWh,Multi-link,6,325 Nm
+Subaru Ascent,2016,36.00,50.00,31000,Petrol,Dealer,Automatic,0,260,2.4 kWh,MacPherson,4,277 Nm
+Kia Sorento,2017,30.00,42.00,28000,Diesel,Dealer,Automatic,0,237,2.2 kWh,Multi-link,4,440 Nm
+Tesla Model X,2019,90.00,110.00,12000,Electric,Dealer,Automatic,0,670,100 kWh,Independent,0,967 Nm
+Jaguar F-Pace,2015,60.00,80.00,35000,Diesel,Dealer,Automatic,0,380,3.0 kWh,Double Wishbone,6,625 Nm
+Lexus RX,2017,55.00,75.00,25000,Petrol,Individual,Automatic,0,295,3.5 kWh,Multi-link,6,370 Nm
+Infiniti QX60,2016,45.00,58.00,30000,Diesel,Dealer,Automatic,0,295,3.5 kWh,Double Wishbone,6,366 Nm
+Volvo XC60,2018,55.00,75.00,20000,Petrol,Dealer,Automatic,0,316,2.0 kWh,MacPherson,4,400 Nm
+Alfa Romeo Stelvio,2015,38.00,50.00,30000,Diesel,Individual,Automatic,0,280,2.1 kWh,Double Wishbone,4,480 Nm
+Acura RDX,2016,36.00,48.00,35000,Petrol,Dealer,Automatic,0,272,2.0 kWh,Multi-link,4,380 Nm
+Genesis GV80,2017,55.00,75.00,22000,Diesel,Dealer,Automatic,0,375,3.5 kWh,Multi-link,6,530 Nm
+Cadillac Escalade,2018,80.00,110.00,18000,Petrol,Dealer,Automatic,0,420,6.2 kWh,MacPherson,8,623 Nm
+Buick Envision,2015,32.00,45.00,42000,Diesel,Individual,Automatic,0,252,2.0 kWh,Multi-link,4,353 Nm
+Toyota Land Cruiser,2016,75.00,100.00,29000,Petrol,Dealer,Automatic,0,381,4.6 kWh,MacPherson,8,650 Nm
+Honda CR-V,2017,28.00,40.00,26000,Diesel,Dealer,Automatic,0,190,2.0 kWh,Multi-link,4,275 Nm
+Ford Explorer,2014,28.00,40.00,47000,Petrol,Individual,Manual,1,300,2.5 kWh,Torsion Beam,6,350 Nm
+Hyundai Tucson,2015,22.00,35.00,35000,Diesel,Dealer,Automatic,0,181,2.0 kWh,Multi-link,4,400 Nm
+BMW X7,2016,90.00,120.00,30000,Petrol,Dealer,Automatic,0,523,4.4 kWh,MacPherson,8,750 Nm
+Audi Q8,2017,100.00,135.00,22000,Diesel,Dealer,Automatic,0,500,4.0 kWh,Multi-link,8,700 Nm
+Mercedes-Benz GLS,2018,110.00,145.00,20000,Petrol,Dealer,Automatic,0,500,4.0 kWh,Multi-link,8,850 Nm
+Volkswagen Atlas,2015,45.00,60.00,40000,Diesel,Individual,Automatic,0,276,2.5 kWh,MacPherson,6,500 Nm
+Chevrolet Tahoe,2016,58.00,75.00,33000,Petrol,Dealer,Automatic,0,355,5.3 kWh,Torsion Beam,8,500 Nm
+Skoda Yeti,2017,25.00,37.00,22000,Diesel,Dealer,Automatic,0,148,1.8 kWh,MacPherson,4,250 Nm
+Mazda CX-3,2018,28.00,40.00,18000,Petrol,Dealer,Automatic,0,146,2.0 kWh,Multi-link,4,280 Nm
+Nissan Rogue,2015,20.00,32.00,37000,Diesel,Dealer,Automatic,0,181,1.6 kWh,Multi-link,4,300 Nm
+Subaru Forester,2016,23.00,35.00,31000,Petrol,Dealer,Automatic,0,182,2.0 kWh,MacPherson,4,240 Nm
+Kia Sportage,2017,22.00,33.00,28000,Diesel,Dealer,Automatic,0,237,2.0 kWh,Multi-link,4,400 Nm
+Tesla Cybertruck,2019,100.00,130.00,12000,Electric,Dealer,Automatic,0,805,200 kWh,Independent,0,1000 Nm
+Jaguar I-Pace,2015,75.00,90.00,35000,Electric,Dealer,Automatic,0,394,90 kWh,Double Wishbone,0,696 Nm
+Lexus GX,2017,50.00,65.00,25000,Petrol,Individual,Automatic,0,301,4.6 kWh,Multi-link,8,438 Nm
+Infiniti QX80,2016,65.00,85.00,30000,Diesel,Dealer,Automatic,0,400,5.6 kWh,Double Wishbone,8,560 Nm
+Volvo XC90,2018,75.00,100.00,20000,Petrol,Dealer,Automatic,0,400,2.0 kWh,MacPherson,4,640 Nm
+Alfa Romeo Tonale,2015,32.00,45.00,30000,Diesel,Individual,Automatic,0,130,1.8 kWh,Double Wishbone,4,320 Nm
+Acura CDX,2016,24.00,32.00,35000,Petrol,Dealer,Automatic,0,136,1.5 kWh,Multi-link,4,230 Nm
+Genesis GV70,2017,55.00,75.00,22000,Diesel,Dealer,Automatic,0,375,3.5 kWh,Multi-link,6,530 Nm
+Cadillac XT4,2018,40.00,58.00,18000,Petrol,Dealer,Automatic,0,237,2.0 kWh,MacPherson,4,350 Nm
+Buick Encore,2015,18.00,25.00,42000,Diesel,Individual,Automatic,0,138,1.4 kWh,Multi-link,4,205 Nm
+Toyota Venza,2016,32.00,42.00,29000,Petrol,Dealer,Automatic,0,268,3.5 kWh,MacPherson,6,333 Nm
+Honda HR-V,2017,18.00,26.00,26000,Diesel,Dealer,Automatic,0,141,1.8 kWh,Multi-link,4,172 Nm
+Ford Escape,2014,20.00,28.00,47000,Petrol,Individual,Manual,1,168,1.6 kWh,Torsion Beam,4,250 Nm
+Hyundai Kona,2015,24.00,30.00,35000,Diesel,Dealer,Automatic,0,175,2.0 kWh,Multi-link,4,400 Nm
+BMW X1,2016,32.00,45.00,30000,Petrol,Dealer,Automatic,0,228,2.0 kWh,MacPherson,4,350 Nm
+Audi Q3,2017,30.00,40.00,22000,Diesel,Dealer,Automatic,0,150,2.0 kWh,Multi-link,4,340 Nm
+Mercedes-Benz GLA,2018,34.00,50.00,20000,Petrol,Dealer,Automatic,0,221,2.0 kWh,Multi-link,4,350 Nm
+Volkswagen T-Roc,2015,20.00,30.00,40000,Diesel,Individual,Automatic,0,147,2.0 kWh,MacPherson,4,250 Nm
+Chevrolet Trax,2016,16.50,22.00,33000,Petrol,Dealer,Automatic,0,138,1.8 kWh,Torsion Beam,4,200 Nm
+Skoda Karoq,2017,22.00,28.00,22000,Diesel,Dealer,Automatic,0,148,2.0 kWh,MacPherson,4,250 Nm
+Mazda CX-30,2018,28.00,40.00,18000,Petrol,Dealer,Automatic,0,186,2.5 kWh,Multi-link,4,280 Nm
+Nissan Kicks,2015,14.00,20.00,37000,Diesel,Dealer,Automatic,0,122,1.6 kWh,Multi-link,4,156 Nm
+Subaru XV,2016,22.00,30.00,31000,Petrol,Dealer,Automatic,0,152,2.0 kWh,MacPherson,4,196 Nm
+Kia Seltos,2017,20.00,26.00,28000,Diesel,Dealer,Automatic,0,140,1.6 kWh,Multi-link,4,242 Nm
